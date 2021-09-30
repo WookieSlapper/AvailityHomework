@@ -12,6 +12,8 @@ For the code questions, the code was written in functioning methods to make test
 
 The tests for Parentheses can be run through Visual Studio, and are passing
 
+The React form may not display properly if run, as there were some issue with the webpack and babel installs that seemed to involved to go into at this time as they would have required more time than I felt was prudent.
+
 
 
 Thanks for your time,
