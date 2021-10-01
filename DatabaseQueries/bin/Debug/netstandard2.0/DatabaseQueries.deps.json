@@ -1,0 +1,105 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "DatabaseQueries/1.0.0": {
+        "dependencies": {
+          "JavaScriptEngineSwitcher.V8": "3.13.1",
+          "JavaScriptEngineSwitcher.V8.Native.win-x64": "3.13.1",
+          "NETStandard.Library": "2.0.3",
+          "React.Web.Mvc4": "5.2.11"
+        },
+        "runtime": {
+          "DatabaseQueries.dll": {}
+        }
+      },
+      "JavaScriptEngineSwitcher.V8/3.13.1": {
+        "runtime": {
+          "lib/net45/JavaScriptEngineSwitcher.V8.dll": {
+            "assemblyVersion": "3.13.1.0",
+            "fileVersion": "3.13.1.0"
+          }
+        },
+        "resources": {
+          "lib/net45/ru-ru/JavaScriptEngineSwitcher.V8.resources.dll": {
+            "locale": "ru-ru"
+          }
+        }
+      },
+      "JavaScriptEngineSwitcher.V8.Native.win-x64/3.13.1": {
+        "dependencies": {
+          "Microsoft.ClearScript.V8.Native.win-x64": "7.1.6"
+        }
+      },
+      "Microsoft.ClearScript.V8.Native.win-x64/7.1.6": {},
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "React.Web.Mvc4/5.2.11": {
+        "runtime": {
+          "lib/net40/React.Web.Mvc4.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.11.39017"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DatabaseQueries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JavaScriptEngineSwitcher.V8/3.13.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-er5908iVs6dFTEU5JtSYSioUNuIbZ8hCCHQmEUvSsvAlrszchBZozXZa1LX30IRqXhOFslmKvIyKfGoer8Dn1w==",
+      "path": "javascriptengineswitcher.v8/3.13.1",
+      "hashPath": "javascriptengineswitcher.v8.3.13.1.nupkg.sha512"
+    },
+    "JavaScriptEngineSwitcher.V8.Native.win-x64/3.13.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cYmKYIQ+97iag67i30rOmPjjpXewkHfXKPWj6kxOExVIMKPzArWNrQuWRkgvnZSjSo1YV5JIelF/VJZbvNAuJA==",
+      "path": "javascriptengineswitcher.v8.native.win-x64/3.13.1",
+      "hashPath": "javascriptengineswitcher.v8.native.win-x64.3.13.1.nupkg.sha512"
+    },
+    "Microsoft.ClearScript.V8.Native.win-x64/7.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fmqbk/C3OwHiSW7yAowJkiUYTsCvvX2Z/3sOOt9DnV+m1JtCvDB0v/N2j31ZQza564oCWAkyPxYRlDdaDaTQ6A==",
+      "path": "microsoft.clearscript.v8.native.win-x64/7.1.6",
+      "hashPath": "microsoft.clearscript.v8.native.win-x64.7.1.6.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "React.Web.Mvc4/5.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hTGmF79JwmPpsIB5zcLIoaMSFxwiQeMlNjXomjKT+wZfxUmp/4EuRJZVj16oBSRRWaBfTlUNKfPkhA8GtDS3jg==",
+      "path": "react.web.mvc4/5.2.11",
+      "hashPath": "react.web.mvc4.5.2.11.nupkg.sha512"
+    }
+  }
+}

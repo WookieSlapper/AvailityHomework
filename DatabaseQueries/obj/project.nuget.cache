@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "Urk7yapj3CgjOq4JLyWWA9aAsz4ygXZtArPK2/LK1dlkJrYZicMraItJTdJ1gS5oW32JopBZIoJ3394KAElDXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\domin\\source\\repos\\DatabaseQueries\\DatabaseQueries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\domin\\.nuget\\packages\\javascriptengineswitcher.v8\\3.13.1\\javascriptengineswitcher.v8.3.13.1.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\javascriptengineswitcher.v8.native.win-x64\\3.13.1\\javascriptengineswitcher.v8.native.win-x64.3.13.1.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.clearscript.v8.native.win-x64\\7.1.6\\microsoft.clearscript.v8.native.win-x64.7.1.6.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\domin\\.nuget\\packages\\react.web.mvc4\\5.2.11\\react.web.mvc4.5.2.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'JavaScriptEngineSwitcher.V8 3.13.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "JavaScriptEngineSwitcher.V8",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'React.Web.Mvc4 5.2.11' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "React.Web.Mvc4",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

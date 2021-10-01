@@ -1,0 +1,9 @@
+C:\Users\domin\source\repos\DatabaseQueries\bin\Debug\netstandard2.0\DatabaseQueries.deps.json
+C:\Users\domin\source\repos\DatabaseQueries\bin\Debug\netstandard2.0\DatabaseQueries.dll
+C:\Users\domin\source\repos\DatabaseQueries\bin\Debug\netstandard2.0\DatabaseQueries.pdb
+C:\Users\domin\source\repos\DatabaseQueries\obj\Debug\netstandard2.0\DatabaseQueries.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\DatabaseQueries\obj\Debug\netstandard2.0\DatabaseQueries.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\DatabaseQueries\obj\Debug\netstandard2.0\DatabaseQueries.AssemblyInfo.cs
+C:\Users\domin\source\repos\DatabaseQueries\obj\Debug\netstandard2.0\DatabaseQueries.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\DatabaseQueries\obj\Debug\netstandard2.0\DatabaseQueries.dll
+C:\Users\domin\source\repos\DatabaseQueries\obj\Debug\netstandard2.0\DatabaseQueries.pdb
